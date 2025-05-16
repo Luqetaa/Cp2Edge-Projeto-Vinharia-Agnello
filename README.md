@@ -62,3 +62,10 @@ Desenvolver uma solução de baixo custo e fácil implementação para monitorar
 ## 📚 Conclusão
  
 O sistema desenvolvido demonstra ser uma solução eficiente e de baixo custo para o monitoramento de ambientes que exigem controle rigoroso de temperatura, umidade e luminosidade, como é o caso de adegas e locais de armazenamento de vinhos. Sua implementação pode contribuir significativamente para a manutenção da qualidade dos produtos armazenados.
+
+## 🧑 Integrantes do Grupo
+
+Manoah Leão 563713
+Matheus Rodrigues 561689
+Lucas Cavalcante 562857
+Caio Nascimento 561383
