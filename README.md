@@ -68,4 +68,4 @@ O sistema desenvolvido demonstra ser uma solução eficiente e de baixo custo pa
 Manoah Leão 563713\
 Matheus Rodrigues 561689\
 Lucas Cavalcante 562857\
-Caio Nascimento 561383\
+Caio Nascimento 561383
